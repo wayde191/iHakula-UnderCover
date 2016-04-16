@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIProgressDelegate.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIFormDataRequest.h
+END
+ASINSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASINSStringAdditions.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIFormDataRequest.m
+END
+ASINSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASINSStringAdditions.m
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIHTTPRequest.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIInputStream.h
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIHTTPRequest.m
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIAuthenticationDialog.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIInputStream.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASINetworkQueue.h
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASIAuthenticationDialog.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/175/workspace/UnderCover/iOS/UnderCover/iHakula/Tools/ASIRequest/ASINetworkQueue.m
+END

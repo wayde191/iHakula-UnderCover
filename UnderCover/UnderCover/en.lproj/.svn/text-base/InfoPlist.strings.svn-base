@@ -1,0 +1,106 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="UnderCover";
+
+/* Error */
+"iHServiceErrorSystemBusy" = "System busy, please try later";
+"iHServiceErrorFeedbackEmpty" = "The content of feedback cannot be empty";
+"iHServiceErrorCallTimesEmpty" = "The call numbers cannot be empty";
+
+"submitSuccess" = "Submit succeed！";
+"RequestError" = "Request Failed！";
+"RequestCanceled" = "Request Canceled!";
+"RequestSending" = "Request sending...";
+"submitFaild" = "Submit Failed";
+"ASIConnectionFailureErrorType" = "Network issue";
+"ASIRequestTimedOutErrorType" = "Request timeout";
+"ASIAuthenticationErrorType" = "Authentication failed";
+"ASIRequestCancelledErrorType" = "Request canceled";
+"ASIUnableToCreateRequestErrorType" = "Server lose connection";
+"ASIInternalErrorWhileBuildingRequestType" = "Server Error";
+"ASIInternalErrorWhileApplyingCredentialsType" = "Server Error";
+"ASIFileManagementError" = "Server Error";
+"ASIUnhandledExceptionError" = "Unknow request";
+"CheckNetWork" = "Network issue, please check the network！";
+
+/* System */
+"GameEvents" = "Game Events";
+"MoreNews" = "More";
+"WhoIsSpy" = "Who is UnderCover";
+"cancel" = "Cancel";
+"ok" = "Sure";
+"sure" = "Sure";
+"delete" = "Delete";
+"Done" = "Done";
+"Add" = "Add";
+"ChooseGamePlayer" = "Choose Players";
+"GameBegin" = "Game Begin";
+"UpdatePlayers" = "Update";
+"ChoosePlayers" = "Choose";
+"ReConfigureGame" = "Reset";
+"GameStart" = "Game Begin";
+
+/* FirstView */
+"WordsUseOut" = "System words had run out, please goto 'More' menu and click 'Words Management' to check out more words.";
+"FirstViewSuggestInfo" = "The suggestion number in total is:";
+
+/* Choose Player */
+"SureToDeleteUser" = "Sure to delete the player(%@)?";
+"InputUserNickname" = "Please input user nick name";
+"AddUserSuccess" = "Added new user succeed!";
+"AddUserFailed" = "Added new user failed!";
+"ScrollUp" = "Pack Up";
+
+/* Game Begin */
+"WordsFilledByHandSwitchToRandom" = "The default setting is manually fill game words, in order to facilitate start the game, system will help you swith to a random choice of words automatically. Or, you can go back and input the game words again, and enjoy the game.";
+"ChooseWordsByRandom" = "Random choice of words";
+"OnlyPersonSelfCanCheck" = "Only the people ( %@ ) can view this card！";
+"NotMyself" = "It is not me";
+"IsMyself" = "It is me";
+"SureToKillSomePlayer" = "Are you sure to kill the player ( %@ )?";
+"InfoMessage" = "Message";
+"GameBeganAndSomeoneTalkFirst" = "Game start, player ( %@) speak first in the first round";
+"GoBackAndSetGames" = "Go back setting game";
+"CurrentRoundSetting" = "Current round player setting";
+"NewRoundSetting" = "New round player setting";
+"OverGame" = "End Game";
+"GameingSureToEndGame" = "Game is playing, are you sure to end the game?";
+"NormalPersonStatus" = "Civilian(%d/%d)";
+"UnderCoverPersonStatus" = "UC(%d/%d)";
+"WhiteBoardPersonStatus" = "WB(%d/%d)";
+"NormalPersonWin" = "Civilian Win! Civilian(%@)/Undercover(%@)";
+"UnderCoverWin" = "Undercover Win!Civilian(%@)/Undercover(%@)";
+"WhiteBoardWin" = "Whiteboard Win!Civilian(%@)/Undercover(%@)";
+
+/* Round Score */
+"Billboard" = "Billboard";
+
+/* Specification */
+"Specification" = "Rules";
+
+/* Words Management */
+"WordsManagement" = "Words Management";
+"SwitchThesaurusTitle" = "Switch Game Thesaurus";
+"ChineseThesaurus" = "Chinese Thesaurus";
+"EnglishThesaurus" = "English Thesaurus";
+"UpdateSuccess" = "Update Success";
+"UpdateFailed" = "Update Failed";
+/* Game Status */
+
+"GameNotBegin" = "Game not start, please click the begin button";
+"GameInDrawLots" = "Drawing, please click the card your name written on and check out your game word";
+"GamePlaying" = "Game in progress...";
+"GamePlayingLastRound" = "Game in progress, last round. Make or break!";
+"GameEnding" = "Game Over!";
+
+/* Alert View */
+
+"LessThanFourPeople" = "Not less than 4 players";
+"WarmServiceTitle" = "Tips";
+
+/* More */
+"PrivacyTermsTitle" = "Privacy & Terms";
+"iHakula" = "iHakula";
+"feedback" = "Feedback";
+"feedbackDefault" = "Please input your feedback here. Any feedback or suggestions of new vocabulary, once adopted, we will send you a free distribution of promotional codes. Please indicate your valid email. Greate Thanks";
+
+"OurProud" = "Our Product";

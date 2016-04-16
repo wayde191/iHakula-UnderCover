@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wordsen</key>
+	<array>
+		<string>family,home</string>
+		<string>Spider-Man,Batman</string>
+		<string>Iron Man,Superman</string>
+		<string>table,desk</string>
+		<string>vacation,holiday</string>
+		<string>milk,yogurt</string>
+		<string>Pepsi-Cola,Coco-Cola</string>
+		<string>Mcdonalds,KFC</string>
+		<string>adidas,nike</string>
+		<string>Sign,mark</string>
+		<string>worry,scare</string>
+		<string>Apple,Google</string>
+		<string>facebook,twitter</string>
+		<string>iphone,ipad</string>
+		<string>meal,dinner</string>
+		<string>007,Get Smart</string>
+		<string>Messi,Cristiano</string>
+		<string>Lady Gaga,Britney Spears</string>
+		<string>American Idol,X Factor</string>
+		<string>Once bitten,twice shy,Jump once but look twice</string>
+		<string>river,lake</string>
+		<string>garden,park</string>
+		<string>like,love</string>
+		<string>large,big</string>
+		<string>little,small</string>
+		<string>glad,happy</string>
+		<string>village,country</string>
+		<string>famous,popular</string>
+		<string>elegant,gentle</string>
+		<string>lovely,sweety</string>
+		<string>Vampire,Zombie</string>
+		<string>Lord of the Rings,The Hobbit</string>
+		<string>Harry Porter,Ron</string>
+		<string>Voldemort,Magneto</string>
+		<string>Mickey Mouse and Donald Duck,Tom and jerry</string>
+		<string>baseball,football</string>
+		<string>badminton,tennis</string>
+		<string>Transformers,Robot</string>
+		<string>Zorro,He-Man</string>
+		<string>Angry Birds,Plants VS Zombies</string>
+		<string>Tom Cruise,Leonardo</string>
+		<string>procure,ensure</string>
+		<string>water,ice</string>
+		<string>release,discharge</string>
+		<string>null,void</string>
+		<string>picture,photo</string>
+		<string>hate,dislike</string>
+		<string>Snow White,Cinderella</string>
+		<string>Mr.Right,Prince Charming</string>
+		<string>Safety,security</string>
+	</array>
+	<key>words</key>
+	<array>
+		<string>爸爸回来了,爸爸去哪儿</string>
+		<string>余额包,理财通</string>
+		<string>天猫,京东</string>
+		<string>女汉子,假小子</string>
+		<string>土豪,富豪</string>
+		<string>钓鱼岛,黄岩岛</string>
+		<string>雾霾,阴霾</string>
+		<string>小三,出轨</string>
+		<string>太阳花学运,康乃馨运动</string>
+		<string>黄衫军,红衫军</string>
+		<string>恒大,国安</string>
+		<string>梅西,C罗</string>
+		<string>巴西世界杯,南非世界杯</string>
+		<string>指环王,霍比特人</string>
+		<string>乌克兰,克里米亚</string>
+		<string>反腐,倡廉</string>
+		<string>东莞扫黄,莞式服务</string>
+		<string>天然气,页岩气</string>
+		<string>致青春,北爱</string>
+		<string>卷珠帘,蝶恋花</string>
+		<string>舌尖上的中国,舌尖上的宿舍</string>
+		<string>步步惊心,步步惊情</string>
+		<string>金秀贤,李敏镐</string>
+		<string>全智贤,金喜善</string>
+		<string>炸鸡啤酒,炸鸡可乐</string>
+		<string>cindy,angela</string>
+		<string>天天,石头</string>
+		<string>赛龙舟,赛皮艇</string>
+		<string>吃粽子,吃汤圆</string>
+		<string>花儿与少年,花样年华</string>
+		<string>小米手机,锤子手机</string>
+		<string>文章出轨,果然嫖娼</string>
+		<string>中国好舞蹈,舞林大会</string>
+		<string>孟非,宁财神</string>
+	</array>
+</dict>
+</plist>
