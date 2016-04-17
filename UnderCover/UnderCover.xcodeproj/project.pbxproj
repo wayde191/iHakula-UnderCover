@@ -1719,6 +1719,11 @@
 				CLASSPREFIX = UC;
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = iHakula;
+				TargetAttributes = {
+					B7A8B4F41795277700BD7E67 = {
+						DevelopmentTeam = W38285RYNS;
+					};
+				};
 			};
 			buildConfigurationList = B7A8B4F01795277700BD7E67 /* Build configuration list for PBXProject "UnderCover" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -2237,7 +2242,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = armv7;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Ulrika Clevesjo (D6RZ3T9UME)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: sun wei (8722L3F3ML)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UnderCover/UnderCover-Prefix.pch";
@@ -2262,7 +2267,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = armv7;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: sun wei (W38285RYNS)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: sun wei (W38285RYNS)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UnderCover/UnderCover-Prefix.pch";

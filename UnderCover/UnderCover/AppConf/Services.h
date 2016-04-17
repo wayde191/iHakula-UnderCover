@@ -9,11 +9,11 @@
 #ifndef Journey_Services_h
 #define Journey_Services_h
 
-//#define HOST_NAME           @"www.ihakula.com"
-//#define SERVICE_ROOT_URL    @"http://www.ihakula.com/api/index.php/undercover/"
+#define HOST_NAME           @"www.ihakula.com"
+#define SERVICE_ROOT_URL    @"http://www.ihakula.com:9000/iHakula-root/3_www/api/index.php/undercover/"
 
-#define HOST_NAME           @"127.0.0.1"
-#define SERVICE_ROOT_URL    @"http://127.0.0.1/api/index.php/undercover/"
+//#define HOST_NAME           @"127.0.0.1"
+//#define SERVICE_ROOT_URL    @"http://127.0.0.1/api/index.php/undercover/"
 
 /////////////////////////// Services ///////////////////////////////////////////
 

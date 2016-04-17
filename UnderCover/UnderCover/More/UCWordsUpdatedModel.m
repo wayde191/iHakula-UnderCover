@@ -75,7 +75,6 @@
             
         }
     }
-
 }
 - (void)serviceCallSuccess:(iHResponseSuccess *)response {
     [super serviceCallSuccess:response];
